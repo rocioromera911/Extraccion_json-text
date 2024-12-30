@@ -1,0 +1,160 @@
+[
+    {
+        "url": "https://www.vea.com.ar/7790895000997?_q=7790895000997&map=ft",
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@context": "https://schema.org/",
+                        "@type": "Product",
+                        "@id": "https://www.vea.com.ar/gaseosa-coca-cola-sabor-original-2-25-l/p",
+                        "name": "Gaseosa Coca-cola Sabor Original 2.25 L",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "COCA COLA"
+                        },
+                        "image": "https://veaargentina.vtexassets.com/arquivos/ids/783070/Gaseosa-Coca-cola-Sabor-Original-2-25-L-1-247191.jpg?v=638206690815300000",
+                        "description": "&lt;article&gt; &lt;h3&gt;Gaseosa Coca-Cola Sabor Original ? Menos Azúcares 2.25 Lt&lt;/h3&gt; &lt;p&gt; Nada supera el sabor de una Coca-Cola. Diseñado para acompañar cada momento, el sabor de la Coca-Cola es un clásico que perdura desde hace más de 130 años. Deliciosa y refrescante. &lt;/p&gt; &lt;/article&gt;",
+                        "mpn": "12110101009",
+                        "sku": "246613",
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "lowPrice": 3800,
+                            "highPrice": 3800,
+                            "priceCurrency": "ARS",
+                            "offers": [
+                                {
+                                    "@type": "Offer",
+                                    "price": 3800,
+                                    "priceCurrency": "ARS",
+                                    "availability": "http://schema.org/InStock",
+                                    "sku": "246613",
+                                    "itemCondition": "http://schema.org/NewCondition",
+                                    "priceValidUntil": "2025-12-24T03:00:00Z",
+                                    "seller": {
+                                        "@type": "Organization",
+                                        "name": "Jumbo Argentina"
+                                    }
+                                }
+                            ],
+                            "offerCount": 1
+                        },
+                        "gtin": "7790895000997"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://www.vea.com.ar/7790895001000?_q=7790895001000&map=ft",
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@context": "https://schema.org/",
+                        "@type": "Product",
+                        "@id": "https://www.vea.com.ar/gaseosa-sprite-lima-limon-2-25-lt/p",
+                        "name": "Gaseosa Sprite Lima-limón 2,25 Lt",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "SPRITE"
+                        },
+                        "image": "https://veaargentina.vtexassets.com/arquivos/ids/791803/Gaseosa-Sprite-Lima-Lim-n-2-25lts-Gaseosa-Sprite-Lima-lim-n-2-25-Lt-1-248213.jpg?v=638291793679300000",
+                        "description": "&lt;article&gt; &lt;h3&gt;Gaseosa Sprite Lima-Limón Sabor Original ? Menos Azúcares 2,25 Lt&lt;/h3&gt; &lt;p&gt;Sprite te invita a Mantenerte Fresco, y es ?la? gaseosa sabor lima-limón. Sprite es refrescante, transparente con una personalidad auténtica, honesta e irreverente. Es ideal para esos momentos en los que quieres saciar tu sed y buscas una bebida con un sabor diferente, cuando estas solo, con amigos o familia, acompañar tus comidas y refrescar la rutina de todos los días. Y esta disponible sus versiones con y sin azúcar. &lt;/p&gt; &lt;/article&gt;",
+                        "mpn": "12110301004",
+                        "sku": "247620",
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "lowPrice": 3800,
+                            "highPrice": 3800,
+                            "priceCurrency": "ARS",
+                            "offers": [
+                                {
+                                    "@type": "Offer",
+                                    "price": 3800,
+                                    "priceCurrency": "ARS",
+                                    "availability": "http://schema.org/InStock",
+                                    "sku": "247620",
+                                    "itemCondition": "http://schema.org/NewCondition",
+                                    "priceValidUntil": "2025-12-24T03:00:00Z",
+                                    "seller": {
+                                        "@type": "Organization",
+                                        "name": "Jumbo Argentina"
+                                    }
+                                }
+                            ],
+                            "offerCount": 1
+                        },
+                        "gtin": "7790895001000"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://www.vea.com.ar/7790895001017?_q=7790895001017&map=ft",
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@context": "https://schema.org/",
+                        "@type": "Product",
+                        "@id": "https://www.vea.com.ar/gaseosa-fanta-naranja-2-25-l/p",
+                        "name": "Gaseosa Fanta Naranja 2.25 L",
+                        "brand": {
+                            "@type": "Brand",
+                            "name": "FANTA"
+                        },
+                        "image": "https://veaargentina.vtexassets.com/arquivos/ids/783081/Gaseosa-Fanta-Naranja-2-25-L-1-248227.jpg?v=638206690856200000",
+                        "description": "&lt;article&gt; &lt;h3&gt;Gaseosa Fanta Naranja 2.25 L&lt;/h3&gt; &lt;p&gt;Fanta te invita a que descubras y pruebes cual es tu verdadero sabor. &lt;br&gt;Fanta es una gaseosa frutal, rica, indulgente y divertida que te entrega una experiencia sensorial increíble con su sabor, aroma, burbujas y colores vibrantes. Fanta te invita convertir la rutina en momentos de diversión y por ello es ideal para esos momentos que buscas sabores diferente, cuando estas solo, con amigos o familia, acompañar tus comidas y tomar y comer algo rápido y rico. &lt;/p&gt; &lt;/article&gt;",
+                        "mpn": "12110901004",
+                        "sku": "247632",
+                        "offers": {
+                            "@type": "AggregateOffer",
+                            "lowPrice": 3800,
+                            "highPrice": 3800,
+                            "priceCurrency": "ARS",
+                            "offers": [
+                                {
+                                    "@type": "Offer",
+                                    "price": 3800,
+                                    "priceCurrency": "ARS",
+                                    "availability": "http://schema.org/InStock",
+                                    "sku": "247632",
+                                    "itemCondition": "http://schema.org/NewCondition",
+                                    "priceValidUntil": "2025-12-24T03:00:00Z",
+                                    "seller": {
+                                        "@type": "Organization",
+                                        "name": "Jumbo Argentina"
+                                    }
+                                }
+                            ],
+                            "offerCount": 1
+                        },
+                        "gtin": "7790895001017"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "url": "https://www.vea.com.ar/7790895001031?_q=7790895001031&map=ft",
+        "data": {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            "itemListElement": []
+        }
+    }
+]

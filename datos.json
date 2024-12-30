@@ -1,0 +1,826 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-surtido-bagley-400-gr-2/p",
+                "name": "Galletitas Surtido Bagley 400 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SURTIDO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/846372/Galletitas-Surtido-Bagley-400-Gr-1-1023523.jpg?v=638676597703270000",
+                "description": "&lt;h3&gt;Galletitas Surtido Bagley 400 Gr&lt;/h3&gt;&lt;p&gt;Descubr&amp;iacute; el placer inigualable de las Galletitas Surtido Bagley, donde cada bocado es una experiencia &amp;uacute;nica que despierta recuerdos y emociones. Perfectas para compartir con quienes m&amp;aacute;s quer&amp;eacute;s, estas galletitas transforman cada momento en una celebraci&amp;oacute;n de sabores y afectos.&lt;/p&gt;&lt;p&gt;Sumergite en el deleite que solo Bagley puede ofrecer.&lt;/p&gt;",
+                "mpn": "11121501017",
+                "sku": "1364915",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2117,
+                    "highPrice": 2117,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2117,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "1364915",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-27T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040147720"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/aceite-de-girasol-natura-1-5-l/p",
+                "name": "Aceite De Girasol Natura 1.5 L",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "NATURA"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/427751/Aceite-De-Girasol-Natura-15-L-1-247928.jpg?v=636495154762100000",
+                "description": "",
+                "mpn": "12610902002",
+                "sku": "247337",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3700,
+                    "highPrice": 3700,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3700,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "247337",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-28T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790272001029"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-oreo-rellenas-con-crema-sabor-original-354-gr/p",
+                "name": "Galletitas Oreo Rellenas Con Crema Sabor Original 354 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "OREO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/803300/Galletitas-Dulces-Rellenas-Con-Crema-Oreo-354g-1-945087.jpg?v=638379382755670000",
+                "description": "&lt;h3&gt;Galletitas Oreo Rellenas con Crema Sabor Original 354 Gr&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;iexcl;Agreg&amp;aacute; tus Oreo al carrito!&lt;/strong&gt; Para el desayuno, para merendar en familia, para snackear en el recreo del colegio o en la facultad o para compartir con amigos. Para mayor informaci&amp;oacute;n, consult&amp;aacute; las calor&amp;iacute;as y Tabla Nutricional al dorso del empaque.&lt;/p&gt;",
+                "mpn": "11121309066",
+                "sku": "387749",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 4850,
+                    "highPrice": 4850,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 4850,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "387749",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-21T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7622201735258"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-surtido-diversion-x400g/p",
+                "name": "Galletitas Surtido Diversion X400g",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "DIVERSION"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/814285/Galletitas-Surtido-Diversion-X400g-1-1008720.jpg?v=638452605697700000",
+                "description": "",
+                "mpn": "11121506013",
+                "sku": "412699",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2150,
+                    "highPrice": 2150,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2150,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "412699",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-28T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040143364"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-pepitos-con-chips-de-chocolate-357-gr-pack-x-3-u-de-119-gr/p",
+                "name": "Galletitas Pepitos Con Chips De Chocolate 357 Gr Pack X 3 U De 119 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "PEPITOS"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/804479/Galletitas-Dulces-Con-Chips-De-Chocolate-Pepitos-357g-1-945090.jpg?v=638386293793430000",
+                "description": "&lt;h3&gt;Galletitas Pepitos con Chips de Chocolate 357 Gr - Pack 3 U&lt;/h3&gt;&lt;p&gt;&amp;iquest;Ya ten&amp;eacute;s tus Galletitas Dulces Pepitos para hoy? Agreg&amp;aacute; al carrito tus cookies favoritas, hechas con chispas del m&amp;aacute;s rico chocolate Cadbury. Aprovech&amp;aacute; el tripack y llev&amp;aacute; 3 paquetes de galletitas. Consult&amp;aacute; ingredientes y Tabla Nutricional al dorso del empaque.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
+                "mpn": "11120705050",
+                "sku": "387752",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 4510,
+                    "highPrice": 4510,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 4510,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "387752",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-19T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7622201735883"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-chocolinas-x250g/p",
+                "name": "Galletitas Chocolinas X250g",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "CHOCOLINAS"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/814283/Galletitas-Chocolinas-X250g-1-1008715.jpg?v=638452605691770000",
+                "description": "",
+                "mpn": "11121301015",
+                "sku": "412694",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1900,
+                    "highPrice": 1900,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1900,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "412694",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-28T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040143234"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/aceite-girasol-legitimo-900-ml/p",
+                "name": "Aceite Girasol Legitimo 900 Ml",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "LEGITIMO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/710054/Aceite-Girasol-Legitimo-X900cc-1-890344.jpg?v=637929022013600000",
+                "description": "",
+                "mpn": "12610932004",
+                "sku": "350410",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1714,
+                    "highPrice": 1714,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1714,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "350410",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-26T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7798316700808"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-opera-agrupadas-220-gr/p",
+                "name": "Galletitas \u00f3pera Agrupadas 220 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "OPERA"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/624009/Galletitas-pera-Agrupadas-220-Gr-1-3454.jpg?v=637502527403100000",
+                "description": "",
+                "mpn": "11120302001",
+                "sku": "2818",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1710,
+                    "highPrice": 1710,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1710,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "2818",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-28T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040932005"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/mayonesa-hellmann-s-clasica-sin-tacc-doypack-950-gr/p",
+                "name": "Mayonesa Cl\u00e1sica Sin Tacc Doypack 950 Gr Hellmann&apos;s",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "HELLMANN\u00b4S"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/806715/Mayonesa-Hellmann-s-Clasica-Doypack-950-G-1-884276.jpg?v=638403359004800000",
+                "description": "&lt;h2&gt;Transform\u00e1 tus comidas con el sabor inigualable de Hellmann&apos;s&lt;/h2&gt;La Mayonesa Cl\u00e1sica Sin TACC de Hellmann&apos;s es todo lo que necesit\u00e1s para llevar tus platos a otro nivel. Su sabor suave y cremoso realza cualquier comida y se adapta a tus recetas favoritas. Con ingredientes de calidad como huevos de campo y aceite de girasol sustentable, es una opci\u00f3n irresistible y perfecta para cada bocado.&lt;h3&gt;Por qu\u00e9 elegir la Mayonesa Cl\u00e1sica Sin TACC Hellmann&apos;s&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Sabor inconfundible que resalta el gusto de cada plato&lt;/li&gt;&lt;li&gt;Elaborada con huevos de campo y aceite de origen sustentable&lt;/li&gt;&lt;li&gt;Fuente de Vitamina E (antioxidante) y Omega 6 para cuidar tu salud&lt;/li&gt;&lt;li&gt;Libre de gluten, ideal para una dieta sin TACC&lt;/li&gt;&lt;li&gt;Presentaci\u00f3n en doypack de 950 Gr para que disfrutes al m\u00e1ximo&lt;/li&gt;&lt;/ul&gt;Ideal para s\u00e1ndwiches, ensaladas, carnes, hamburguesas, dips y m\u00e1s. \u00a1Probala en todas tus comidas y dejate llevar por su sabor aut\u00e9ntico! Compralo ahora con env\u00edo a domicilio o retiro en tienda.",
+                "mpn": "11510101127",
+                "sku": "344530",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3679,
+                    "highPrice": 3679,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3679,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "344530",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-19T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7794000006058"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/yerba-mate-playadito-suave-1-kg/p",
+                "name": "Yerba Mate Playadito Suave 1 Kg",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "PLAYADITO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/711224/Yerba-Mate-Playadito-Suave-X1kg-1-854539.jpg?v=637938633804770000",
+                "description": "",
+                "mpn": "11230376006",
+                "sku": "315800",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 4418,
+                    "highPrice": 4418,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 4418,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "315800",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-21T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7793704000928"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/lomo-de-atun-agua-y-aceite-cuisine-co-120gr-escurrido-170-gr-neto/p",
+                "name": "Lomo De Atun Agua Y Aceite Cuisine &amp; Co 120gr Escurrido 170 Gr Neto",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "CUISINE &amp; CO NBE MP"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/589056/Atun-Lomo-Al-Agua-Y-Aceite-Cuisine-co-1-849807.jpg?v=637280470879500000",
+                "description": "",
+                "mpn": "11640593003",
+                "sku": "311175",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2700,
+                    "highPrice": 2700,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2700,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "311175",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-23T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7792052170772"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-oreo-mini-rellenas-sabor-original-50-gr/p",
+                "name": "Galletitas Oreo Mini Rellenas Sabor Original 50 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "OREO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/803314/Galletitas-Oreo-Mini-X50g-1-972222.jpg?v=638379382814370000",
+                "description": "&lt;h3&gt;Galletitas Oreo Mini Rellenas Sabor Original 50 Gr&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;iexcl;Agreg&amp;aacute; tus Oreo al carrito!&lt;/strong&gt; Para el desayuno, para merendar en familia, para snackear en el recreo del colegio o en la facultadd o para compartir con amigos. Para mayor informaci&amp;oacute;n, consult&amp;aacute; las calor&amp;iacute;as y Tabla Nutricional al dorso del empaque.&lt;/p&gt;",
+                "mpn": "11121309067",
+                "sku": "395234",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 850,
+                    "highPrice": 850,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 850,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "395234",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-09T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7622201761288"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/mayonesa-hellmann-s-liviana-doypack-475-gr/p",
+                "name": "Mayonesa Liviana Doypack 475 Gr Hellmann&apos;s",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "HELLMANN\u00b4S"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/806740/Mayonesa-Hellmanns-Liviana-475g-1-943077.jpg?v=638403359100400000",
+                "description": "&lt;h2&gt;Mayonesa Liviana Doypack 475 Gr Hellmann&apos;s&lt;/h2&gt;&lt;p&gt;Disfrut&amp;aacute; del sabor aut&amp;eacute;ntico de Hellmann&apos;s sin culpa. Con solo 22 calor&amp;iacute;as por cucharada, la Mayonesa Liviana le da un toque irresistible a tus comidas, &amp;iexcl;sin resignar sabor! Ideal para tus s&amp;aacute;ndwiches, ensaladas, carnes y mucho m&amp;aacute;s. Eleg&amp;iacute; una opci&amp;oacute;n m&amp;aacute;s liviana y sabrosa para acompa&amp;ntilde;ar todos tus platos.&lt;/p&gt;&lt;h3&gt;Porque elegir Mayonesa Liviana Doypack 475 Gr Hellmann&apos;s&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;22 calor&amp;iacute;as por cucharada: Un sabor delicioso sin preocuparte por las calor&amp;iacute;as.&lt;/li&gt;&lt;li&gt;50% menos aceite: El equilibrio perfecto entre liviandad y sabor.&lt;/li&gt;&lt;li&gt;Hecha con huevos de campo seleccionados y aceite de origen sustentable: Ingredientes de la m&amp;aacute;s alta calidad para un sabor &amp;uacute;nico.&lt;/li&gt;&lt;li&gt;Libre de gluten y 0% grasas trans: Ideal para todos, sin ingredientes indeseados.&lt;/li&gt;&lt;li&gt;Vers&amp;aacute;til: Perfecta para s&amp;aacute;ndwiches, ensaladas, carnes y m&amp;aacute;s.&lt;/li&gt;&lt;li&gt;Disponible en distintas presentaciones: Descubr&amp;iacute; todos los sabores y tama&amp;ntilde;os de la familia Hellmann&amp;rsquo;s.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Sum&amp;aacute; sabor y frescura a tus comidas. Compralo ahora con env&amp;iacute;o a domicilio o retiro en tienda.&lt;/p&gt;",
+                "mpn": "11510303033",
+                "sku": "386229",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1966,
+                    "highPrice": 1966,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1966,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "386229",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-26T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7794000007109"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/yerba-mate-4flex-mananita-1-kg/p",
+                "name": "Yerba Mate 4flex Ma\u00f1anita 1 Kg",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "MA\u00d1ANITA"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/611981/Yerba-Mate-Ma-anita-4flex-1kg-1-853197.jpg?v=637396250130400000",
+                "description": "",
+                "mpn": "11230412001",
+                "sku": "314524",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 4769,
+                    "highPrice": 4769,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 4769,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "314524",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-28T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790387015317"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletita-cracker-clasica-la-providencia-303-gr/p",
+                "name": "Galletita Cracker Clasica La Providencia 303 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "La Providencia"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/536200/Galletita-Cracker-La-Providencia-Clasica-X303g-1-712291.jpg?v=636955602206400000",
+                "description": "",
+                "mpn": "11110341001",
+                "sku": "294509",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 1075,
+                    "highPrice": 1075,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 1075,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "294509",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-26T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7798141972371"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/aderezo-mayonesa-natura-950-gr/p",
+                "name": "Aderezo Mayonesa Natura 950 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "NATURA"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/685487/Aderezo-Mayonesa-Natura-950-Gr-1-41500.jpg?v=637786569836630000",
+                "description": "",
+                "mpn": "11510117001",
+                "sku": "40680",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3698,
+                    "highPrice": 3698,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3698,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "40680",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-19T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7791866001357"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-rumba-330g/p",
+                "name": "Galletitas Rumba 330g",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "RUMBA"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/823302/Galletitas-Rumba-330g-1-1014443.jpg?v=638508251982230000",
+                "description": "&lt;p&gt;Las&amp;nbsp;galletitas RUMBA 330g, podr&amp;iacute;amos evocar una sensaci&amp;oacute;n de fiesta y diversi&amp;oacute;n al pensar en estas deliciosas galletitas. Su nombre \\RUMBA\\ podr&amp;iacute;a evocar la idea de alegr&amp;iacute;a y celebraci&amp;oacute;n, sugiriendo un sabor festivo que invita a compartir momentos especiales con amigos y familiares.&lt;/p&gt;",
+                "mpn": "11121302020",
+                "sku": "416202",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3200,
+                    "highPrice": 3200,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3200,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "416202",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-05T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040143524"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/aceite-girasol-legitimo-1-5-l/p",
+                "name": "Aceite Girasol Legitimo 1.5 L",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "LEGITIMO"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/713315/Aceite-Girasol-Legitimo-X1-5l-1-890347.jpg?v=637949973680600000",
+                "description": "",
+                "mpn": "12610932006",
+                "sku": "350413",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 3250,
+                    "highPrice": 3250,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 3250,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "350413",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-06T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7798316700815"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/lomo-de-atun-en-aceite-vegetal-cuisine-co-120-gr/p",
+                "name": "Lomo De Atun En Aceite Vegetal Cuisine-co 120 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "CUISINE &amp; CO NBE MP"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/791407/Lomo-De-Atun-En-Aceite-Vegetal-Cuisine-Co-120gr-Lomo-De-Atun-En-Aceite-Vegetal-Cuisine-Co-120gr-Escurrido-170-Gr-Neto-1-849804.jpg?v=638288337830470000",
+                "description": "",
+                "mpn": "11640593002",
+                "sku": "311172",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2700,
+                    "highPrice": 2700,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2700,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "311172",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-23T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7792052170819"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@context": "https://schema.org/",
+                "@type": "Product",
+                "@id": "https://www.vea.com.ar/galletitas-frambuesa-sonrisas-324-gr/p",
+                "name": "Galletitas Frambuesa Sonrisas 324 Gr",
+                "brand": {
+                    "@type": "Brand",
+                    "name": "SONRISAS"
+                },
+                "image": "https://veaargentina.vtexassets.com/arquivos/ids/636213/Galle-Sonrisas-Frambuesa-X324g-1-859649.jpg?v=637535809310430000",
+                "description": "",
+                "mpn": "11121102029",
+                "sku": "330051",
+                "offers": {
+                    "@type": "AggregateOffer",
+                    "lowPrice": 2525,
+                    "highPrice": 2525,
+                    "priceCurrency": "ARS",
+                    "offers": [
+                        {
+                            "@type": "Offer",
+                            "price": 2525,
+                            "priceCurrency": "ARS",
+                            "availability": "http://schema.org/InStock",
+                            "sku": "330051",
+                            "itemCondition": "http://schema.org/NewCondition",
+                            "priceValidUntil": "2025-12-19T03:00:00Z",
+                            "seller": {
+                                "@type": "Organization",
+                                "name": "Jumbo Argentina"
+                            }
+                        }
+                    ],
+                    "offerCount": 1
+                },
+                "gtin": "7790040133471"
+            }
+        }
+    ]
+}

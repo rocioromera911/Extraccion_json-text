@@ -1,0 +1,98 @@
+import json
+import time
+import pandas as pd
+from playwright.sync_api import sync_playwright
+
+def extraer_json(page):
+    try:
+        script_tag = page.locator('//body/div[2]/div/div[1]/div/script')
+        json_content = script_tag.text_content()
+        return json.loads(json_content)
+    except Exception as e:
+        print(f"Error al extraer JSON: {e}")
+        return None
+
+def extraer_texto_visible(page):
+    try:
+        return page.inner_text("body")
+    except Exception as e:
+        print(f"Error al extraer texto visible: {e}")
+        return ""
+
+def scrollear_pagina(page, veces=1, espera=2):
+    try:
+        for i in range(veces):
+            print(f"Realizando scroll {i + 1}/{veces}...")
+            page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
+            time.sleep(espera)
+    except Exception as e:
+        print(f"Error al scrollear la página: {e}")
+
+def procesar_enlace(url):
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context()
+        page = context.new_page()
+
+        try:
+            print(f"Navegando a {url}...")
+            page.goto(url)
+            page.wait_for_load_state("load")
+
+            print("Esperando 5 segundos adicionales para asegurar la carga completa...")
+            time.sleep(8)
+
+            print("Scrolleando la página para cargar más contenido...")
+            scrollear_pagina(page, veces=1, espera=2)
+
+            print("Recargando la página para asegurarse de que los datos estén cargados correctamente...")
+            page.reload()
+            page.wait_for_load_state("load")
+
+            print("Esperando 3 segundos adicionales después de recargar...")
+            time.sleep(8)
+
+            # Extraer datos JSON
+            json_data = extraer_json(page)
+            if json_data:
+                return json_data
+            else:
+                print("No se pudo extraer el JSON.")
+                return {}
+
+        except Exception as e:
+            print(f"Error al procesar la página: {e}")
+            return {}
+        finally:
+            browser.close()
+
+def main(input_file, output_file):
+    # Leer archivo de entrada
+    data = pd.read_csv(input_file)
+    resultados = []
+
+    for index, row in data.iterrows():
+        descripcion = row['Descripción']
+        ean = row['EAN']
+        link = row['link']
+        
+        print(f"Procesando: {descripcion} (EAN: {ean})...")
+        resultado = procesar_enlace(link)
+        if resultado:
+            resultado['Descripción'] = descripcion
+            resultado['EAN'] = ean
+            resultados.append(resultado)
+
+    # Guardar resultados en un archivo JSON o Excel
+    if resultados:
+        df_resultados = pd.DataFrame(resultados)
+        df_resultados.to_excel(output_file, index=False)
+        print(f"Resultados guardados en {output_file}")
+    else:
+        print("No se encontraron resultados.")
+
+if __name__ == "__main__":
+    # Cambiar los nombres de archivo según sea necesario
+    archivo_entrada = "productos.csv"
+    archivo_salida = "resultados_compilados.xlsx"
+    main(archivo_entrada, archivo_salida)
